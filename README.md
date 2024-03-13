@@ -1,3 +1,11 @@
-### Simple pygame example
+# Pygame example
 
-this is a simple example of a pygame application. It creates a window, and draws a square that can be moved with the arrow keys.
+create virtual environment:  
+`python -m venv venv`
+
+then run  
+`pip install -r requirements.txt` 
+to install the required packages
+
+finally run
+`python main.py` to start the game
