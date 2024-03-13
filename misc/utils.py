@@ -1,7 +1,7 @@
 import pygame
 import sys
 
-from settings import screen_width, screen_height, RED, BLACK
+from settings import screen_width, screen_height, BLACK
 
 
 # Функция для отображения стартового экрана
